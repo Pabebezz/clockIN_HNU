@@ -1,0 +1,1216 @@
+1595475212545	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletfokZh"
+
+(firefox:22403): Gtk-WARNING **: 11:33:34.449: Theme directory status/scalable of theme Cupertino-iCons-master has no size field
+
+1595475215901	Marionette	INFO	Listening on port 39985
+1595475215952	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: services.settings: main/cfr sync interrupted by shutdown
+1595475220749	Marionette	INFO	Stopped listening on port 39985
+1595475431335	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileG78PHc"
+
+(firefox:23764): Gtk-WARNING **: 11:37:13.201: Theme directory status/scalable of theme Cupertino-iCons-master has no size field
+
+1595475434388	Marionette	INFO	Listening on port 43485
+1595475434458	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: services.settings: 
+  main/cfr-fxa Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1595475439497	Marionette	INFO	Stopped listening on port 43485
+1595475440580	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledPCdYd"
+
+(firefox:23992): Gtk-WARNING **: 11:37:22.402: Theme directory status/scalable of theme Cupertino-iCons-master has no size field
+
+1595502943491	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRtcuyK"
+Running Firefox as root in a regular user's session is not supported.  ($HOME is /home/pabebe which is owned by pabebe.)
+1595502944625	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9perhy"
+Running Firefox as root in a regular user's session is not supported.  ($HOME is /home/pabebe which is owned by pabebe.)
+1595502945749	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUtjfvm"
+Running Firefox as root in a regular user's session is not supported.  ($HOME is /home/pabebe which is owned by pabebe.)
+1595502946874	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileU70xaE"
+Running Firefox as root in a regular user's session is not supported.  ($HOME is /home/pabebe which is owned by pabebe.)
+1595502947997	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3l4znv"
+Running Firefox as root in a regular user's session is not supported.  ($HOME is /home/pabebe which is owned by pabebe.)
+1595502949121	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecGlKIL"
+Running Firefox as root in a regular user's session is not supported.  ($HOME is /home/pabebe which is owned by pabebe.)
+1595502950246	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileubHKD4"
+Running Firefox as root in a regular user's session is not supported.  ($HOME is /home/pabebe which is owned by pabebe.)
+1595502951370	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6Rl61a"
+Running Firefox as root in a regular user's session is not supported.  ($HOME is /home/pabebe which is owned by pabebe.)
+1595502952485	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejyW6LP"
+Running Firefox as root in a regular user's session is not supported.  ($HOME is /home/pabebe which is owned by pabebe.)
+1595502953603	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileEvu49S"
+Running Firefox as root in a regular user's session is not supported.  ($HOME is /home/pabebe which is owned by pabebe.)
+1595502954726	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilev93yzy"
+Running Firefox as root in a regular user's session is not supported.  ($HOME is /home/pabebe which is owned by pabebe.)
+1595502955848	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQi2mJw"
+Running Firefox as root in a regular user's session is not supported.  ($HOME is /home/pabebe which is owned by pabebe.)
+1595502956970	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6u35ie"
+Running Firefox as root in a regular user's session is not supported.  ($HOME is /home/pabebe which is owned by pabebe.)
+1595502958091	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7cyfGn"
+Running Firefox as root in a regular user's session is not supported.  ($HOME is /home/pabebe which is owned by pabebe.)
+1595502959215	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyyeMzj"
+Running Firefox as root in a regular user's session is not supported.  ($HOME is /home/pabebe which is owned by pabebe.)
+1595502960338	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8cqGzz"
+Running Firefox as root in a regular user's session is not supported.  ($HOME is /home/pabebe which is owned by pabebe.)
+1595502961455	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileL5sI0E"
+Running Firefox as root in a regular user's session is not supported.  ($HOME is /home/pabebe which is owned by pabebe.)
+1595502962569	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileirevr1"
+Running Firefox as root in a regular user's session is not supported.  ($HOME is /home/pabebe which is owned by pabebe.)
+1595502963694	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile91mmTE"
+Running Firefox as root in a regular user's session is not supported.  ($HOME is /home/pabebe which is owned by pabebe.)
+1595502964821	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCJrQS9"
+Running Firefox as root in a regular user's session is not supported.  ($HOME is /home/pabebe which is owned by pabebe.)
+1595502965935	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZbvkkn"
+Running Firefox as root in a regular user's session is not supported.  ($HOME is /home/pabebe which is owned by pabebe.)
+1595502967051	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile39AaKu"
+Running Firefox as root in a regular user's session is not supported.  ($HOME is /home/pabebe which is owned by pabebe.)
+1595502968175	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileeegM5B"
+Running Firefox as root in a regular user's session is not supported.  ($HOME is /home/pabebe which is owned by pabebe.)
+1595502969296	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileX7MleN"
+Running Firefox as root in a regular user's session is not supported.  ($HOME is /home/pabebe which is owned by pabebe.)
+1595502970419	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebLZNVo"
+Running Firefox as root in a regular user's session is not supported.  ($HOME is /home/pabebe which is owned by pabebe.)
+1595502971537	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNAvMqm"
+Running Firefox as root in a regular user's session is not supported.  ($HOME is /home/pabebe which is owned by pabebe.)
+1595502972661	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqXfxvF"
+Running Firefox as root in a regular user's session is not supported.  ($HOME is /home/pabebe which is owned by pabebe.)
+1595502973768	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilea8LD6h"
+Running Firefox as root in a regular user's session is not supported.  ($HOME is /home/pabebe which is owned by pabebe.)
+1595502974886	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefqV7rL"
+Running Firefox as root in a regular user's session is not supported.  ($HOME is /home/pabebe which is owned by pabebe.)
+1595503042029	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletuHHnd"
+
+(firefox:16953): Gtk-WARNING **: 19:17:24.890: Theme directory status/scalable of theme Cupertino-iCons-master has no size field
+
+1595503047406	Marionette	INFO	Listening on port 37523
+1595503047459	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595503114414	Marionette	INFO	Stopped listening on port 37523
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1595503186549	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile05Sv3l"
+
+(firefox:17640): Gtk-WARNING **: 19:19:48.431: Theme directory status/scalable of theme Cupertino-iCons-master has no size field
+
+1595503189629	Marionette	INFO	Listening on port 37223
+1595503189656	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595503238032	Marionette	INFO	Stopped listening on port 37223
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1595504464824	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledFZyTg"
+
+(firefox:20939): Gtk-WARNING **: 19:41:06.568: Theme directory status/scalable of theme Cupertino-iCons-master has no size field
+
+1595504467749	Marionette	INFO	Listening on port 36013
+1595504467837	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595504498896	Marionette	INFO	Stopped listening on port 36013
+1595504968314	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLHiHK3"
+
+(firefox:22239): Gtk-WARNING **: 19:49:30.191: Theme directory status/scalable of theme Cupertino-iCons-master has no size field
+
+1595504971462	Marionette	INFO	Listening on port 36035
+1595504971526	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595504994028	Marionette	INFO	Stopped listening on port 36035
+1595506229367	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYuxzOj"
+Error: no DISPLAY environment variable specified
+1595506231648	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYVGTmt"
+Error: no DISPLAY environment variable specified
+1595506232768	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQyJaR8"
+Error: no DISPLAY environment variable specified
+1595506233890	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKjyzfe"
+Error: no DISPLAY environment variable specified
+1595506235001	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewz4h4T"
+Error: no DISPLAY environment variable specified
+1595506236115	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6VSQO4"
+Error: no DISPLAY environment variable specified
+1595506237236	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezofy1w"
+Error: no DISPLAY environment variable specified
+1595506238372	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegCTMCN"
+Error: no DISPLAY environment variable specified
+1595506239487	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile59DxHi"
+Error: no DISPLAY environment variable specified
+1595506402720	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemaiQFY"
+Error: no DISPLAY environment variable specified
+1595506406066	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMJZEQH"
+Error: no DISPLAY environment variable specified
+1595506407184	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilero7Z3M"
+Error: no DISPLAY environment variable specified
+1595506408300	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCugpzG"
+Error: no DISPLAY environment variable specified
+1595506407620	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefEimWl"
+Error: no DISPLAY environment variable specified
+1595506408741	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOXCjXT"
+Error: no DISPLAY environment variable specified
+1595506409860	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenYAksU"
+Error: no DISPLAY environment variable specified
+1595506410981	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5v0a9I"
+Error: no DISPLAY environment variable specified
+1595506412102	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileh2zkia"
+Error: no DISPLAY environment variable specified
+1595506413223	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyMkY0a"
+Error: no DISPLAY environment variable specified
+1595506414344	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePk4FAP"
+Error: no DISPLAY environment variable specified
+1595506415465	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexSK1qO"
+Error: no DISPLAY environment variable specified
+1595506416586	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefoI69V"
+Error: no DISPLAY environment variable specified
+1595506417736	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilel81xGH"
+Error: no DISPLAY environment variable specified
+1595506418857	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBawWa7"
+Error: no DISPLAY environment variable specified
+1595506419978	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2R85HC"
+Error: no DISPLAY environment variable specified
+1595506421100	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileflnNZx"
+Error: no DISPLAY environment variable specified
+1595506422218	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCu6ySq"
+Error: no DISPLAY environment variable specified
+1595506423339	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegs6mEN"
+Error: no DISPLAY environment variable specified
+1595506424488	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilei9FeGk"
+Error: no DISPLAY environment variable specified
+1595506425609	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePKgTYD"
+Error: no DISPLAY environment variable specified
+1595506426727	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileC6FoN5"
+Error: no DISPLAY environment variable specified
+1595506427877	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileITLIwe"
+Error: no DISPLAY environment variable specified
+1595506428998	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesLS2aM"
+Error: no DISPLAY environment variable specified
+1595506430123	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepRCYoF"
+Error: no DISPLAY environment variable specified
+1595506431244	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBvSkok"
+Error: no DISPLAY environment variable specified
+1595506432366	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1OtBj4"
+Error: no DISPLAY environment variable specified
+1595506433485	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGfT0Bn"
+Error: no DISPLAY environment variable specified
+1595506434606	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerVrUQW"
+Error: no DISPLAY environment variable specified
+1595506435717	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUTR4af"
+Error: no DISPLAY environment variable specified
+1595506436835	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexqL8B0"
+Error: no DISPLAY environment variable specified
+1595506437949	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDi7lLH"
+Error: no DISPLAY environment variable specified
+1595506439063	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4gHVSC"
+Error: no DISPLAY environment variable specified
+1595506440172	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5TIcFB"
+Error: no DISPLAY environment variable specified
+1595506441295	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJV7mTz"
+Error: no DISPLAY environment variable specified
+1595506442416	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1m4rGV"
+Error: no DISPLAY environment variable specified
+1595506443552	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile382Et9"
+Error: no DISPLAY environment variable specified
+1595506444667	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesju6mm"
+Error: no DISPLAY environment variable specified
+1595506445788	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYHK46W"
+Error: no DISPLAY environment variable specified
+1595506446897	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7Kq6e0"
+Error: no DISPLAY environment variable specified
+1595506448012	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilek9F5ZG"
+Error: no DISPLAY environment variable specified
+1595506449142	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQB13TT"
+Error: no DISPLAY environment variable specified
+1595506450256	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3aBS0x"
+Error: no DISPLAY environment variable specified
+1595506451363	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2lCvg7"
+Error: no DISPLAY environment variable specified
+1595506452470	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBCGa0L"
+Error: no DISPLAY environment variable specified
+1595506453592	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerNM13P"
+Error: no DISPLAY environment variable specified
+1595506454708	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileB01yQO"
+Error: no DISPLAY environment variable specified
+1595506455829	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletVbRvg"
+Error: no DISPLAY environment variable specified
+1595506456943	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileeXWZNF"
+Error: no DISPLAY environment variable specified
+1595506458066	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIXIZUt"
+Error: no DISPLAY environment variable specified
+1595506459173	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledqPEXS"
+Error: no DISPLAY environment variable specified
+1595506460292	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuv4bBo"
+Error: no DISPLAY environment variable specified
+1595506461406	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIWcLPt"
+Error: no DISPLAY environment variable specified
+1595506462516	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqhR7WT"
+Error: no DISPLAY environment variable specified
+1595506463631	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOWiiu9"
+Error: no DISPLAY environment variable specified
+1595506464751	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelEmOU1"
+Error: no DISPLAY environment variable specified
+1595506465860	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexoimgg"
+Error: no DISPLAY environment variable specified
+1595506466971	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileScDOcl"
+Error: no DISPLAY environment variable specified
+1595506468086	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUSp27q"
+Error: no DISPLAY environment variable specified
+1595506469196	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6LtO0P"
+Error: no DISPLAY environment variable specified
+1595506470318	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4sU6Dw"
+Error: no DISPLAY environment variable specified
+1595506471440	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekfa3vd"
+Error: no DISPLAY environment variable specified
+1595506472559	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegIjKss"
+Error: no DISPLAY environment variable specified
+1595506473678	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVl0M6f"
+Error: no DISPLAY environment variable specified
+1595506474789	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuQxLJt"
+Error: no DISPLAY environment variable specified
+1595506475907	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenWX32R"
+Error: no DISPLAY environment variable specified
+1595506477021	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekj0eLT"
+Error: no DISPLAY environment variable specified
+1595506478137	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePgHzTs"
+Error: no DISPLAY environment variable specified
+1595506479249	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegxMJT1"
+Error: no DISPLAY environment variable specified
+1595506480371	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0ojNNS"
+Error: no DISPLAY environment variable specified
+1595506481494	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileeuiCFU"
+Error: no DISPLAY environment variable specified
+1595506482605	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexRAVdi"
+Error: no DISPLAY environment variable specified
+1595506483716	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9zC9l4"
+Error: no DISPLAY environment variable specified
+1595506484835	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilex351o5"
+Error: no DISPLAY environment variable specified
+1595506485958	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilena8w8v"
+Error: no DISPLAY environment variable specified
+1595506487075	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4ajg95"
+Error: no DISPLAY environment variable specified
+1595506488198	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBc5H4E"
+Error: no DISPLAY environment variable specified
+1595506489320	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSr4twL"
+Error: no DISPLAY environment variable specified
+1595506490440	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVQd1Dx"
+Error: no DISPLAY environment variable specified
+1595506491563	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDGOlgW"
+Error: no DISPLAY environment variable specified
+1595506492681	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGCNMln"
+Error: no DISPLAY environment variable specified
+1595506493797	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQjbx70"
+Error: no DISPLAY environment variable specified
+1595506494920	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileEU0y7L"
+Error: no DISPLAY environment variable specified
+1595506496038	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBUc1q3"
+Error: no DISPLAY environment variable specified
+1595506497158	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileg41PUh"
+Error: no DISPLAY environment variable specified
+1595506498281	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTt7FMl"
+Error: no DISPLAY environment variable specified
+1595506499400	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejrlCmF"
+Error: no DISPLAY environment variable specified
+1595506500523	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVXjUz9"
+Error: no DISPLAY environment variable specified
+1595506501643	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebjUJ6L"
+Error: no DISPLAY environment variable specified
+1595506502751	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekIfKoB"
+Error: no DISPLAY environment variable specified
+1595506503874	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHaycfc"
+Error: no DISPLAY environment variable specified
+1595506504992	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuymId4"
+Error: no DISPLAY environment variable specified
+1595506506114	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSjodhZ"
+Error: no DISPLAY environment variable specified
+1595506507234	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTBl9KE"
+Error: no DISPLAY environment variable specified
+1595506508354	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYLk97V"
+Error: no DISPLAY environment variable specified
+1595506509476	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileeYrfgt"
+Error: no DISPLAY environment variable specified
+1595506510588	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileU6xCyo"
+Error: no DISPLAY environment variable specified
+1595506511703	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefkT2g9"
+Error: no DISPLAY environment variable specified
+1595506512810	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileugTpZD"
+Error: no DISPLAY environment variable specified
+1595506513917	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilee0YMv1"
+Error: no DISPLAY environment variable specified
+1595506515024	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDXdUqr"
+Error: no DISPLAY environment variable specified
+1595506516131	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileO72BSH"
+Error: no DISPLAY environment variable specified
+1595506517245	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuQILhM"
+Error: no DISPLAY environment variable specified
+1595506518369	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileik3oWa"
+Error: no DISPLAY environment variable specified
+1595506519488	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAuGa3g"
+Error: no DISPLAY environment variable specified
+1595506520642	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelZ1BHc"
+Error: no DISPLAY environment variable specified
+1595506521762	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilep6eC4n"
+Error: no DISPLAY environment variable specified
+1595506522885	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNTA8dZ"
+Error: no DISPLAY environment variable specified
+1595506524008	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileL3zkfP"
+Error: no DISPLAY environment variable specified
+1595506525128	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileE43viF"
+Error: no DISPLAY environment variable specified
+1595506526252	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekE4LL6"
+Error: no DISPLAY environment variable specified
+1595506527371	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQWvu7V"
+Error: no DISPLAY environment variable specified
+1595506528494	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQaLBkR"
+Error: no DISPLAY environment variable specified
+1595506529611	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCCOMsB"
+Error: no DISPLAY environment variable specified
+1595506530726	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyBmNem"
+Error: no DISPLAY environment variable specified
+1595506531846	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileE7HWu7"
+Error: no DISPLAY environment variable specified
+1595506532960	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilermFOxT"
+Error: no DISPLAY environment variable specified
+1595506534067	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1l0s8Q"
+Error: no DISPLAY environment variable specified
+1595506535174	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenvu4jb"
+Error: no DISPLAY environment variable specified
+1595506536282	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHNCb6n"
+Error: no DISPLAY environment variable specified
+1595506537396	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQyT2pQ"
+Error: no DISPLAY environment variable specified
+1595506538503	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileK4wqUe"
+Error: no DISPLAY environment variable specified
+1595506539609	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaimi6J"
+Error: no DISPLAY environment variable specified
+1595506540716	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegFeHcN"
+Error: no DISPLAY environment variable specified
+1595506541831	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejeKBDE"
+Error: no DISPLAY environment variable specified
+1595506542938	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile71ZxTL"
+Error: no DISPLAY environment variable specified
+1595506544045	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLiVPq6"
+Error: no DISPLAY environment variable specified
+1595506545156	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5tF5tN"
+Error: no DISPLAY environment variable specified
+1595506546280	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilei8As1p"
+Error: no DISPLAY environment variable specified
+1595506547404	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileV64Hob"
+Error: no DISPLAY environment variable specified
+1595506548516	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7Hr41M"
+Error: no DISPLAY environment variable specified
+1595506549640	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileO64Wom"
+Error: no DISPLAY environment variable specified
+1595506550756	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebP4Wm0"
+Error: no DISPLAY environment variable specified
+1595506551880	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileb18lnY"
+Error: no DISPLAY environment variable specified
+1595506553004	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiLoUCW"
+Error: no DISPLAY environment variable specified
+1595506554123	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUikq3w"
+Error: no DISPLAY environment variable specified
+1595506555245	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileelgRwT"
+Error: no DISPLAY environment variable specified
+1595506556365	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFH9OTk"
+Error: no DISPLAY environment variable specified
+1595506557488	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileecCkwD"
+Error: no DISPLAY environment variable specified
+1595506558608	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6zI6py"
+Error: no DISPLAY environment variable specified
+1595506559723	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecZOdJX"
+Error: no DISPLAY environment variable specified
+1595506560846	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRO0vjO"
+Error: no DISPLAY environment variable specified
+1595506561965	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileb445Ct"
+Error: no DISPLAY environment variable specified
+1595506563089	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8lc72u"
+Error: no DISPLAY environment variable specified
+1595506564208	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTidkVC"
+Error: no DISPLAY environment variable specified
+1595506565328	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerim3w9"
+Error: no DISPLAY environment variable specified
+1595506566450	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileT28E5J"
+Error: no DISPLAY environment variable specified
+1595506567572	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiQj0pR"
+Error: no DISPLAY environment variable specified
+1595506568691	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileI6F5Qi"
+Error: no DISPLAY environment variable specified
+1595506569813	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebi6BNp"
+Error: no DISPLAY environment variable specified
+1595506570924	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTnXsaH"
+Error: no DISPLAY environment variable specified
+1595506572047	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyh1430"
+Error: no DISPLAY environment variable specified
+1595506573167	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileesL3bF"
+Error: no DISPLAY environment variable specified
+1595506574291	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesA1Byj"
+Error: no DISPLAY environment variable specified
+1595506575415	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileplsfWV"
+Error: no DISPLAY environment variable specified
+1595506576534	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileixR2Lb"
+Error: no DISPLAY environment variable specified
+1595506577660	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6Mgxio"
+Error: no DISPLAY environment variable specified
+1595506578776	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiled9YgEk"
+Error: no DISPLAY environment variable specified
+1595506579891	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaYk9fs"
+Error: no DISPLAY environment variable specified
+1595506581015	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKQh7bC"
+Error: no DISPLAY environment variable specified
+1595506582139	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebJmo9V"
+Error: no DISPLAY environment variable specified
+1595506583262	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRn9RL1"
+Error: no DISPLAY environment variable specified
+1595506584385	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGNPxWt"
+Error: no DISPLAY environment variable specified
+1595506585504	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4qYGGb"
+Error: no DISPLAY environment variable specified
+1595506586619	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJnAdNs"
+Error: no DISPLAY environment variable specified
+1595506587736	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiley0vwrK"
+Error: no DISPLAY environment variable specified
+1595506588857	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNAGdr0"
+Error: no DISPLAY environment variable specified
+1595506589968	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOc4TNs"
+Error: no DISPLAY environment variable specified
+1595506591085	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRiPAFx"
+Error: no DISPLAY environment variable specified
+1595506592200	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejLfJ5m"
+Error: no DISPLAY environment variable specified
+1595506593315	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevLyBX0"
+Error: no DISPLAY environment variable specified
+1595506594439	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7QFaM5"
+Error: no DISPLAY environment variable specified
+1595506595563	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilen65BKD"
+Error: no DISPLAY environment variable specified
+1595506596686	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBJuNxB"
+Error: no DISPLAY environment variable specified
+1595506597797	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuQa1Cw"
+Error: no DISPLAY environment variable specified
+1595506598922	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehA1GRO"
+Error: no DISPLAY environment variable specified
+1595506600046	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemusHVq"
+Error: no DISPLAY environment variable specified
+1595506601166	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOsNSCU"
+Error: no DISPLAY environment variable specified
+1595506602286	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexfn9Vz"
+Error: no DISPLAY environment variable specified
+1595506603405	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYGy5dY"
+Error: no DISPLAY environment variable specified
+1595506604532	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXncrCw"
+Error: no DISPLAY environment variable specified
+1595506605659	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKve2Om"
+Error: no DISPLAY environment variable specified
+1595506606772	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemZis2g"
+Error: no DISPLAY environment variable specified
+1595506607897	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecqk59k"
+Error: no DISPLAY environment variable specified
+1595506609017	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileScckHf"
+Error: no DISPLAY environment variable specified
+1595506610144	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNCINDz"
+Error: no DISPLAY environment variable specified
+1595506611269	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5lK630"
+Error: no DISPLAY environment variable specified
+1595506612385	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9yOBNt"
+Error: no DISPLAY environment variable specified
+1595506613510	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehaRmSG"
+Error: no DISPLAY environment variable specified
+1595506614635	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNu6ujD"
+Error: no DISPLAY environment variable specified
+1595506615750	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileff6ZOg"
+Error: no DISPLAY environment variable specified
+1595506616866	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSxId42"
+Error: no DISPLAY environment variable specified
+1595506617977	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6Jj9B2"
+Error: no DISPLAY environment variable specified
+1595506619094	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGtWNsi"
+Error: no DISPLAY environment variable specified
+1595506696998	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileE692sY"
+Error: no DISPLAY environment variable specified
+1595506699940	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2zqiKl"
+Error: no DISPLAY environment variable specified
+1595506701055	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletb8MOZ"
+Error: no DISPLAY environment variable specified
+1595506702176	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileriUTfd"
+Error: no DISPLAY environment variable specified
+1595506703295	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1mbUlX"
+Error: no DISPLAY environment variable specified
+1595506704416	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePt8G8i"
+Error: no DISPLAY environment variable specified
+1595506705531	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePr5aDu"
+Error: no DISPLAY environment variable specified
+1595506706642	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilek2xSK1"
+Error: no DISPLAY environment variable specified
+1595506707755	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSuVYRH"
+Error: no DISPLAY environment variable specified
+1595506708869	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemqi1lK"
+Error: no DISPLAY environment variable specified
+1595506709990	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSjUnJX"
+Error: no DISPLAY environment variable specified
+1595506711111	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6863Vm"
+Error: no DISPLAY environment variable specified
+1595506712232	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKbKsfL"
+Error: no DISPLAY environment variable specified
+1595506713346	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekireok"
+Error: no DISPLAY environment variable specified
+1595506712589	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileibBbyA"
+Error: no DISPLAY environment variable specified
+1595506713748	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8J43et"
+Error: no DISPLAY environment variable specified
+1595506714865	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemMQxkN"
+Error: no DISPLAY environment variable specified
+1595506715982	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegnu88l"
+Error: no DISPLAY environment variable specified
+1595506717092	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6mq3Cs"
+Error: no DISPLAY environment variable specified
+1595506718204	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuwFJGl"
+Error: no DISPLAY environment variable specified
+1595506719316	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileywbdqx"
+Error: no DISPLAY environment variable specified
+1595506720430	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileT0t6pC"
+Error: no DISPLAY environment variable specified
+1595506721600	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6KiHIj"
+Error: no DISPLAY environment variable specified
+1595506722708	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZEr23X"
+Error: no DISPLAY environment variable specified
+1595506723825	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5TfpnB"
+Error: no DISPLAY environment variable specified
+1595506724947	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8QYG2C"
+Error: no DISPLAY environment variable specified
+1595506726057	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileap9pWP"
+Error: no DISPLAY environment variable specified
+1595506727178	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7wyJ0a"
+Error: no DISPLAY environment variable specified
+1595506728296	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepR5d1O"
+Error: no DISPLAY environment variable specified
+1595506729412	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezimmCm"
+Error: no DISPLAY environment variable specified
+1595506730530	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileG9TwS9"
+Error: no DISPLAY environment variable specified
+1595506731650	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4qtFYE"
+Error: no DISPLAY environment variable specified
+1595506732763	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJ9xIjD"
+Error: no DISPLAY environment variable specified
+1595506733886	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilen5RxC2"
+Error: no DISPLAY environment variable specified
+1595506735004	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezHDurv"
+Error: no DISPLAY environment variable specified
+1595506736114	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehdTW6L"
+Error: no DISPLAY environment variable specified
+1595506737225	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGCEoZn"
+Error: no DISPLAY environment variable specified
+1595506738343	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegaQbEB"
+Error: no DISPLAY environment variable specified
+1595506739465	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileidWgfU"
+Error: no DISPLAY environment variable specified
+1595506740579	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0eoGrn"
+Error: no DISPLAY environment variable specified
+1595506741696	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGAgJMq"
+Error: no DISPLAY environment variable specified
+1595506742810	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexSkvy5"
+Error: no DISPLAY environment variable specified
+1595506743927	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDMH6Z9"
+Error: no DISPLAY environment variable specified
+1595506745050	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileP3gr3z"
+Error: no DISPLAY environment variable specified
+1595506746172	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQCDE6E"
+Error: no DISPLAY environment variable specified
+1595506747294	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5r4Tb1"
+Error: no DISPLAY environment variable specified
+1595506748409	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJDFeS8"
+Error: no DISPLAY environment variable specified
+1595506749520	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaBvhxu"
+Error: no DISPLAY environment variable specified
+1595506750633	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRS4ksS"
+Error: no DISPLAY environment variable specified
+1595506751744	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebf0AS1"
+Error: no DISPLAY environment variable specified
+1595506752851	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0vOmXM"
+Error: no DISPLAY environment variable specified
+1595506753970	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7C7r2a"
+Error: no DISPLAY environment variable specified
+1595506755087	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilec6YQuP"
+Error: no DISPLAY environment variable specified
+1595506756206	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQFmq2y"
+Error: no DISPLAY environment variable specified
+1595506757331	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOSfGFP"
+Error: no DISPLAY environment variable specified
+1595506758453	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJOgRzb"
+Error: no DISPLAY environment variable specified
+1595506759571	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezXsT5X"
+Error: no DISPLAY environment variable specified
+1595506760693	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileF1ATvn"
+Error: no DISPLAY environment variable specified
+1595506761810	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenFCg5o"
+Error: no DISPLAY environment variable specified
+1595506762928	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileeMQVp6"
+Error: no DISPLAY environment variable specified
+1595506764052	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezD36bX"
+Error: no DISPLAY environment variable specified
+1595506765170	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqVWT7d"
+Error: no DISPLAY environment variable specified
+1595506766280	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUNuKQB"
+Error: no DISPLAY environment variable specified
+1595506767403	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileoyLkJI"
+Error: no DISPLAY environment variable specified
+1595506768519	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0xMedy"
+Error: no DISPLAY environment variable specified
+1595506769633	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepP50F4"
+Error: no DISPLAY environment variable specified
+1595506770748	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebeo4Av"
+Error: no DISPLAY environment variable specified
+1595506771871	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3mpRAt"
+Error: no DISPLAY environment variable specified
+1595506772988	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVeExyZ"
+Error: no DISPLAY environment variable specified
+1595506774108	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileumtWoN"
+Error: no DISPLAY environment variable specified
+1595506775222	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerxGMbC"
+Error: no DISPLAY environment variable specified
+1595506776340	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileak0xuY"
+Error: no DISPLAY environment variable specified
+1595506777457	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepwM89j"
+Error: no DISPLAY environment variable specified
+1595506778568	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebbDsf4"
+Error: no DISPLAY environment variable specified
+1595506779675	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezR2GXq"
+Error: no DISPLAY environment variable specified
+1595506780781	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1WNtJr"
+Error: no DISPLAY environment variable specified
+1595506781888	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLYH4N7"
+Error: no DISPLAY environment variable specified
+1595506782995	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileH7fRYJ"
+Error: no DISPLAY environment variable specified
+1595506784101	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJr4cFq"
+Error: no DISPLAY environment variable specified
+1595506785208	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileEa1cIE"
+Error: no DISPLAY environment variable specified
+1595506786320	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMI89i2"
+Error: no DISPLAY environment variable specified
+1595506787431	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile85f8KU"
+Error: no DISPLAY environment variable specified
+1595506788549	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilen1BaU3"
+Error: no DISPLAY environment variable specified
+1595506789673	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOcJnjQ"
+Error: no DISPLAY environment variable specified
+1595506790797	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilee8SU31"
+Error: no DISPLAY environment variable specified
+1595506791914	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAdLeFH"
+Error: no DISPLAY environment variable specified
+1595506793038	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilet0wlIy"
+Error: no DISPLAY environment variable specified
+1595506794159	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFoMf9v"
+Error: no DISPLAY environment variable specified
+1595506795278	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileE5dIRv"
+Error: no DISPLAY environment variable specified
+1595506796394	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepLAyn0"
+Error: no DISPLAY environment variable specified
+1595506797513	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilek9PDBT"
+Error: no DISPLAY environment variable specified
+1595506798631	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletH1y2Y"
+Error: no DISPLAY environment variable specified
+1595506799748	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileh0ue8K"
+Error: no DISPLAY environment variable specified
+1595506800863	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewhIrI9"
+Error: no DISPLAY environment variable specified
+1595506801970	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMZimHV"
+Error: no DISPLAY environment variable specified
+1595506803077	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKg9GUs"
+Error: no DISPLAY environment variable specified
+1595506804184	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilet7SbgN"
+Error: no DISPLAY environment variable specified
+1595506805290	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0lP1FG"
+Error: no DISPLAY environment variable specified
+1595506806397	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJDh2LE"
+Error: no DISPLAY environment variable specified
+1595506807503	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile61hn1q"
+Error: no DISPLAY environment variable specified
+1595506808610	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyIfElj"
+Error: no DISPLAY environment variable specified
+1595506809717	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTCL4Ra"
+Error: no DISPLAY environment variable specified
+1595506810832	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHmRGeD"
+Error: no DISPLAY environment variable specified
+1595506811939	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTwG6OM"
+Error: no DISPLAY environment variable specified
+1595506813055	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZIqrxQ"
+Error: no DISPLAY environment variable specified
+1595506814172	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiler9rW3Y"
+Error: no DISPLAY environment variable specified
+1595506815292	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8ABuz3"
+Error: no DISPLAY environment variable specified
+1595506816407	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0zO07C"
+Error: no DISPLAY environment variable specified
+1595506817527	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevjneJs"
+Error: no DISPLAY environment variable specified
+1595506818647	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileoQxo7X"
+Error: no DISPLAY environment variable specified
+1595506819767	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSXdpZC"
+Error: no DISPLAY environment variable specified
+1595506820882	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4YYrCt"
+Error: no DISPLAY environment variable specified
+1595506822007	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVuoWTK"
+Error: no DISPLAY environment variable specified
+1595506823132	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilellQ0e5"
+Error: no DISPLAY environment variable specified
+1595506824256	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJ5B9xt"
+Error: no DISPLAY environment variable specified
+1595506825371	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLOBEJy"
+Error: no DISPLAY environment variable specified
+1595506826490	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezJb1UX"
+Error: no DISPLAY environment variable specified
+1595506827610	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDwfGg1"
+Error: no DISPLAY environment variable specified
+1595506828719	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileeT888q"
+Error: no DISPLAY environment variable specified
+1595506829843	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6857Pn"
+Error: no DISPLAY environment variable specified
+1595506830961	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFwo5D2"
+Error: no DISPLAY environment variable specified
+1595506832085	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZ4YpR4"
+Error: no DISPLAY environment variable specified
+1595506833208	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileW1Ou4A"
+Error: no DISPLAY environment variable specified
+1595506834327	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQcTcs9"
+Error: no DISPLAY environment variable specified
+1595506835450	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiDlU7W"
+Error: no DISPLAY environment variable specified
+1595506836569	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileh08m47"
+Error: no DISPLAY environment variable specified
+1595506837684	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGvydMy"
+Error: no DISPLAY environment variable specified
+1595506838803	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecN0R6q"
+Error: no DISPLAY environment variable specified
+1595506839926	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7IwWdO"
+Error: no DISPLAY environment variable specified
+1595506841049	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile46NxgU"
+Error: no DISPLAY environment variable specified
+1595506842168	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNVF3M5"
+Error: no DISPLAY environment variable specified
+1595506843291	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4f0zRg"
+Error: no DISPLAY environment variable specified
+1595506844417	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZ9b4CY"
+Error: no DISPLAY environment variable specified
+1595506845541	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilee6p1Yz"
+Error: no DISPLAY environment variable specified
+1595506846660	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile40mCPC"
+Error: no DISPLAY environment variable specified
+1595506847779	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevwa5Jo"
+Error: no DISPLAY environment variable specified
+1595506848898	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileszy30L"
+Error: no DISPLAY environment variable specified
+1595506850017	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenR9ZWS"
+Error: no DISPLAY environment variable specified
+1595506851140	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIOl6lA"
+Error: no DISPLAY environment variable specified
+1595506852259	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1iL0E1"
+Error: no DISPLAY environment variable specified
+1595506853378	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBeuK03"
+Error: no DISPLAY environment variable specified
+1595506854501	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileR1RByO"
+Error: no DISPLAY environment variable specified
+1595506855627	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHgOmAi"
+Error: no DISPLAY environment variable specified
+1595506856743	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileY3KULe"
+Error: no DISPLAY environment variable specified
+1595506857867	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZ2noNv"
+Error: no DISPLAY environment variable specified
+1595506858986	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOod3Md"
+Error: no DISPLAY environment variable specified
+1595506860110	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYXe4eW"
+Error: no DISPLAY environment variable specified
+1595506861236	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileayBE6l"
+Error: no DISPLAY environment variable specified
+1595506862355	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJtRVlW"
+Error: no DISPLAY environment variable specified
+1595506863478	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile85cy81"
+Error: no DISPLAY environment variable specified
+1595506864601	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileEjFUel"
+Error: no DISPLAY environment variable specified
+1595506865717	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4Ol3X9"
+Error: no DISPLAY environment variable specified
+1595506866841	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletePBn0"
+Error: no DISPLAY environment variable specified
+1595506867965	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesEmhos"
+Error: no DISPLAY environment variable specified
+1595506869089	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0TVNVl"
+Error: no DISPLAY environment variable specified
+1595506870212	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWSVAR7"
+Error: no DISPLAY environment variable specified
+1595506871331	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4UFEeF"
+Error: no DISPLAY environment variable specified
+1595506872453	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFG8Fe6"
+Error: no DISPLAY environment variable specified
+1595506873577	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVTBqKu"
+Error: no DISPLAY environment variable specified
+1595506874692	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileS7CMlZ"
+Error: no DISPLAY environment variable specified
+1595506875811	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZLWi1v"
+Error: no DISPLAY environment variable specified
+1595506876935	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileteCfM1"
+Error: no DISPLAY environment variable specified
+1595506878054	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuFRYrT"
+Error: no DISPLAY environment variable specified
+1595506879178	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilep93fn5"
+Error: no DISPLAY environment variable specified
+1595506880302	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5bxVdc"
+Error: no DISPLAY environment variable specified
+1595506881426	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2Qvigj"
+Error: no DISPLAY environment variable specified
+1595506882550	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileY76SYw"
+Error: no DISPLAY environment variable specified
+1595506883677	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLtmWJ0"
+Error: no DISPLAY environment variable specified
+1595506884802	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUcxVla"
+Error: no DISPLAY environment variable specified
+1595506885926	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWucEBj"
+Error: no DISPLAY environment variable specified
+1595506887046	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesOibDw"
+Error: no DISPLAY environment variable specified
+1595506888170	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZtY4du"
+Error: no DISPLAY environment variable specified
+1595506889296	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileScLRDx"
+Error: no DISPLAY environment variable specified
+1595506890421	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevuF9qq"
+Error: no DISPLAY environment variable specified
+1595506891545	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDsOzhF"
+Error: no DISPLAY environment variable specified
+1595506892662	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileie87x0"
+Error: no DISPLAY environment variable specified
+1595506893775	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBcj7fz"
+Error: no DISPLAY environment variable specified
+1595506894899	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile41w1s5"
+Error: no DISPLAY environment variable specified
+1595506896023	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaMMvey"
+Error: no DISPLAY environment variable specified
+1595506897142	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqQnUks"
+Error: no DISPLAY environment variable specified
+1595506898266	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewI73cM"
+Error: no DISPLAY environment variable specified
+1595506899385	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFQ297m"
+Error: no DISPLAY environment variable specified
+1595506900506	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileH93yHS"
+Error: no DISPLAY environment variable specified
+1595506901626	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileS48PJn"
+Error: no DISPLAY environment variable specified
+1595506902742	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileu80tK9"
+Error: no DISPLAY environment variable specified
+1595506903867	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenxdzIm"
+Error: no DISPLAY environment variable specified
+1595506904986	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8tQgjP"
+Error: no DISPLAY environment variable specified
+1595506906111	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaZqHGq"
+Error: no DISPLAY environment variable specified
+1595506907231	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJGu6zt"
+Error: no DISPLAY environment variable specified
+1595506908351	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiles6Z3mJ"
+Error: no DISPLAY environment variable specified
+1595506909471	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileC96Z2Y"
+Error: no DISPLAY environment variable specified
+1595506910595	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4UtpfF"
+Error: no DISPLAY environment variable specified
+1595506911713	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesp4bfo"
+Error: no DISPLAY environment variable specified
+1595506912834	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekcDZxI"
+Error: no DISPLAY environment variable specified
+1595506913959	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileljA4oR"
+Error: no DISPLAY environment variable specified
+1595506915079	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesn6TXm"
+Error: no DISPLAY environment variable specified
+1595506916199	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7ThozS"
+Error: no DISPLAY environment variable specified
+1595506917325	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileEPgXD4"
+Error: no DISPLAY environment variable specified
+1595506918451	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7X4PID"
+Error: no DISPLAY environment variable specified
+1595506919571	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCQZMI5"
+Error: no DISPLAY environment variable specified
+1595506920687	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaSklXV"
+Error: no DISPLAY environment variable specified
+1595506921812	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWd8H0p"
+Error: no DISPLAY environment variable specified
+1595506922927	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecgHg1s"
+Error: no DISPLAY environment variable specified
+1595506924046	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefN7nXe"
+Error: no DISPLAY environment variable specified
+1595506925171	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiler2gx0d"
+Error: no DISPLAY environment variable specified
+1595506926290	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTbIsGi"
+Error: no DISPLAY environment variable specified
+1595506927405	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebpnhMk"
+Error: no DISPLAY environment variable specified
+1595506928532	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJUxr88"
+Error: no DISPLAY environment variable specified
+1595506929652	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegCPCeH"
+Error: no DISPLAY environment variable specified
+1595506930777	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebaGENu"
+Error: no DISPLAY environment variable specified
+1595506931892	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilec4woFO"
+Error: no DISPLAY environment variable specified
+1595506933014	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAQj6PP"
+Error: no DISPLAY environment variable specified
+1595506934130	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSNcHPu"
+Error: no DISPLAY environment variable specified
+1595506935256	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJEZACI"
+Error: no DISPLAY environment variable specified
+1595506936374	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKKuoYL"
+Error: no DISPLAY environment variable specified
+1595506937485	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekYxpUi"
+Error: no DISPLAY environment variable specified
+1595506938611	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileodwPZ2"
+Error: no DISPLAY environment variable specified
+1595506939734	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewO7FeA"
+Error: no DISPLAY environment variable specified
+1595506940849	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebtkdSk"
+Error: no DISPLAY environment variable specified
+1595506941975	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXyYW5V"
+Error: no DISPLAY environment variable specified
+1595506943094	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilervxsKb"
+Error: no DISPLAY environment variable specified
+1595506944211	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilez4oiOI"
+Error: no DISPLAY environment variable specified
+1595506945327	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyvcH17"
+Error: no DISPLAY environment variable specified
+1595506946443	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCo4hkO"
+Error: no DISPLAY environment variable specified
+1595506947570	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileN2M49R"
+Error: no DISPLAY environment variable specified
+1595506948690	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerrEVzs"
+Error: no DISPLAY environment variable specified
+1595506949811	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekK6MEc"
+Error: no DISPLAY environment variable specified
+1595506950937	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileL1PvmO"
+Error: no DISPLAY environment variable specified
+1595506952063	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileALFque"
+Error: no DISPLAY environment variable specified
+1595506953190	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyumDPw"
+Error: no DISPLAY environment variable specified
+1595506954307	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKKzhUn"
+Error: no DISPLAY environment variable specified
+1595506955419	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefF2DM6"
+Error: no DISPLAY environment variable specified
+1595506956540	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYR1863"
+Error: no DISPLAY environment variable specified
+1595506957668	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0LWU3N"
+Error: no DISPLAY environment variable specified
+1595506958787	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelR3P19"
+Error: no DISPLAY environment variable specified
+1595506959909	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezJWVlT"
+Error: no DISPLAY environment variable specified
+1595506961034	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMP3SfX"
+Error: no DISPLAY environment variable specified
+1595506962148	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecMI23U"
+Error: no DISPLAY environment variable specified
+1595506963268	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQwjaYj"
+Error: no DISPLAY environment variable specified
+1595506964388	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledq5Qu2"
+Error: no DISPLAY environment variable specified
+1595506965515	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaCIPw8"
+Error: no DISPLAY environment variable specified
+1595506966628	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBq4qUx"
+Error: no DISPLAY environment variable specified
+1595506967745	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileE0RRJ3"
+Error: no DISPLAY environment variable specified
+1595506968869	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefJtV7W"
+Error: no DISPLAY environment variable specified
+1595506969988	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3qAIYm"
+Error: no DISPLAY environment variable specified
+1595506971115	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesl8vge"
+Error: no DISPLAY environment variable specified
+1595506972233	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemj9Gtf"
+Error: no DISPLAY environment variable specified
+1595506973357	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilee6LTf8"
+Error: no DISPLAY environment variable specified
+1595506974476	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebqr3lL"
+Error: no DISPLAY environment variable specified
+1595506975597	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQmIaMz"
+Error: no DISPLAY environment variable specified
+1595506976715	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemINCbb"
+Error: no DISPLAY environment variable specified
+1595506977840	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekQ4RNI"
+Error: no DISPLAY environment variable specified
+1595506978959	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAxoieF"
+Error: no DISPLAY environment variable specified
+1595506980079	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUnYMbg"
+Error: no DISPLAY environment variable specified
+1595506981204	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1V8jbN"
+Error: no DISPLAY environment variable specified
+1595506982332	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6d6TaI"
+Error: no DISPLAY environment variable specified
+1595506983451	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDUMVVq"
+Error: no DISPLAY environment variable specified
+1595506984567	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYMeX0j"
+Error: no DISPLAY environment variable specified
+1595506985678	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3tLtDe"
+Error: no DISPLAY environment variable specified
+1595506986803	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFoE3tJ"
+Error: no DISPLAY environment variable specified
+1595506987929	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqSn4MT"
+Error: no DISPLAY environment variable specified
+1595506989049	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecrDit8"
+Error: no DISPLAY environment variable specified
+1595506990171	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAm9tYM"
+Error: no DISPLAY environment variable specified
+1595506991297	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewDnai4"
+Error: no DISPLAY environment variable specified
+1595506992415	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileD3gNt8"
+Error: no DISPLAY environment variable specified
+1595506993538	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRaRgK8"
+Error: no DISPLAY environment variable specified
+1595506994658	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBP8A2u"
+Error: no DISPLAY environment variable specified
+1595506995778	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilei0ryFr"
+Error: no DISPLAY environment variable specified
+1595506996900	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileB0CIVa"
+Error: no DISPLAY environment variable specified
+1595506998025	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLElb1y"
+Error: no DISPLAY environment variable specified
+1595506999147	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileP2mCRK"
+Error: no DISPLAY environment variable specified
+1595507000273	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaoQeTS"
+Error: no DISPLAY environment variable specified
+1595507001393	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileoDHYxK"
+Error: no DISPLAY environment variable specified
+1595507002515	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileciD66i"
+Error: no DISPLAY environment variable specified
+1595507003640	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHkcG3w"
+Error: no DISPLAY environment variable specified
+1595507004751	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefQAXHv"
+Error: no DISPLAY environment variable specified
+1595507005876	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJP7z4I"
+Error: no DISPLAY environment variable specified
+1595507006999	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilef5m0ea"
+Error: no DISPLAY environment variable specified
+1595507008122	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8RPFNs"
+Error: no DISPLAY environment variable specified
+1595507009242	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLZHovY"
+Error: no DISPLAY environment variable specified
+1595507010362	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOOFxfi"
+Error: no DISPLAY environment variable specified
+1595507011482	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZW3mnG"
+Error: no DISPLAY environment variable specified
+1595507012602	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile39PXSo"
+Error: no DISPLAY environment variable specified
+1595507013717	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile47rmOD"
+Error: no DISPLAY environment variable specified
+1595507014835	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQbTJDd"
+Error: no DISPLAY environment variable specified
+1595507015953	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSUwJKJ"
+Error: no DISPLAY environment variable specified
+1595507017074	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFhHb9S"
+Error: no DISPLAY environment variable specified
+1595507018194	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesyFElN"
+Error: no DISPLAY environment variable specified
+1595507019352	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehaqESF"
+Error: no DISPLAY environment variable specified
+1595507020465	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileH7M1nu"
+Error: no DISPLAY environment variable specified
+1595507021588	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTo25RR"
+Error: no DISPLAY environment variable specified
+1595507022698	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJRMx1Q"
+Error: no DISPLAY environment variable specified
+1595507023810	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4N3QqV"
+Error: no DISPLAY environment variable specified
+1595507024989	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaHn44D"
+Error: no DISPLAY environment variable specified
+1595507026099	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile30HFkM"
+Error: no DISPLAY environment variable specified
+1595507027217	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileeiq4iW"
+Error: no DISPLAY environment variable specified
+1595507028335	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGbFMCF"
+Error: no DISPLAY environment variable specified
+1595507029455	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilej5xd6L"
+Error: no DISPLAY environment variable specified
+1595507030567	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileV6ROTr"
+Error: no DISPLAY environment variable specified
+1595507031684	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1OkZqX"
+Error: no DISPLAY environment variable specified
+1595507032815	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4SQzuo"
+Error: no DISPLAY environment variable specified
+1595507033925	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezDIMc3"
+Error: no DISPLAY environment variable specified
+1595507035040	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileF7ZDQA"
+Error: no DISPLAY environment variable specified
+1595507036151	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilek39VcH"
+Error: no DISPLAY environment variable specified
+1595507037261	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileX9Ii6s"
+Error: no DISPLAY environment variable specified
+1595507038385	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexkk93q"
+Error: no DISPLAY environment variable specified
+1595507039504	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenH6blZ"
+Error: no DISPLAY environment variable specified
+1595507040620	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLvsOyg"
+Error: no DISPLAY environment variable specified
+1595507041741	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileh9oyK5"
+Error: no DISPLAY environment variable specified
+1595507042863	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJHwrzf"
+Error: no DISPLAY environment variable specified
+1595507043992	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledQhRIa"
+Error: no DISPLAY environment variable specified
+1595507045116	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileClgsph"
+Error: no DISPLAY environment variable specified
+1595507046225	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0RbatF"
+Error: no DISPLAY environment variable specified
+1595507047356	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevS9dpz"
+Error: no DISPLAY environment variable specified
+1595507048475	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilex60CSA"
+Error: no DISPLAY environment variable specified
+1595507049602	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUvRVpG"
+Error: no DISPLAY environment variable specified
+1595507050721	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUpI3H9"
+Error: no DISPLAY environment variable specified
+1595507051843	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLUUqtr"
+Error: no DISPLAY environment variable specified
+1595507052960	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileO3iVvt"
+Error: no DISPLAY environment variable specified
+1595507054077	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilex2i3EP"
+Error: no DISPLAY environment variable specified
+1595507055189	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOXkYiJ"
+Error: no DISPLAY environment variable specified
+1595507056301	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepi0xUo"
+Error: no DISPLAY environment variable specified
+1595507057425	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileG5G2VQ"
+Error: no DISPLAY environment variable specified
+1595507058549	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHkyKot"
+Error: no DISPLAY environment variable specified
+1595507059679	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZFBvJy"
+Error: no DISPLAY environment variable specified
+1595507060801	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileecKyxa"
+Error: no DISPLAY environment variable specified
+1595507061923	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegLCQMy"
+Error: no DISPLAY environment variable specified
+1595507063047	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileejqPm6"
+Error: no DISPLAY environment variable specified
+1595507064175	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileeRKs8z"
+Error: no DISPLAY environment variable specified
+1595507065295	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezv9UvG"
+Error: no DISPLAY environment variable specified
+1595507066412	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNYEcq5"
+Error: no DISPLAY environment variable specified
+1595507067541	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKFz24i"
+Error: no DISPLAY environment variable specified
+1595507068658	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2G2ykR"
+Error: no DISPLAY environment variable specified
+1595507069776	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilec7qm4J"
+Error: no DISPLAY environment variable specified
+1595507070910	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefJr1ID"
+Error: no DISPLAY environment variable specified
+1595507072027	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4vJDOm"
+Error: no DISPLAY environment variable specified
+1595507073138	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVfoVKJ"
+Error: no DISPLAY environment variable specified
+1595507074263	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJm9OfX"
+Error: no DISPLAY environment variable specified
+1595507075379	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevPa0Oz"
+Error: no DISPLAY environment variable specified
+1595511052641	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehil7od"
+
+(firefox:4291): Gtk-WARNING **: 21:30:58.220: Theme directory status/scalable of theme Cupertino-iCons-master has no size field
+
+1595511062729	Marionette	INFO	Listening on port 37525
+1595511062868	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595511089594	Marionette	INFO	Stopped listening on port 37525
