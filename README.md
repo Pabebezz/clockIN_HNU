@@ -29,4 +29,6 @@ to_addr:
 smtp_server:
 ```
  # 运行
-python main.py
+`python main.py`
+
+PS:若要实现每天自动打卡，确认主板是否支持定时开机，然后设置一个定时计划就ok
